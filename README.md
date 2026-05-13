@@ -4,8 +4,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Sections](https://img.shields.io/badge/Sections-26-green)]()
 
-> **By Devesh Talreja**
-
 ---
 
 ## 📖 About These Notes
